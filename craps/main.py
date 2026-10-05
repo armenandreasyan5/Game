@@ -39,5 +39,4 @@ def game():
             print("You lose")
             break
 
-
 game()
